@@ -1,4 +1,4 @@
-name: [DANGER] Bug Report 
+name: Bug Report from YML File 
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
